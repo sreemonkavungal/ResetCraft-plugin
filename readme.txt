@@ -50,7 +50,6 @@ ResetCraft is built with security-first design and follows WordPress coding stan
 2. Selection options for resetting data  
 3. Success message & summary report  
 
-(Place your images as: `/assets/screenshot-1.png`, `/assets/screenshot-2.png`, etc.)
 
 == Frequently Asked Questions ==
 
