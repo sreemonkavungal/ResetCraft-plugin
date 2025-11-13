@@ -1,6 +1,6 @@
 === ResetCraft ===
-Contributors: SREEMON K S
-Donate link: https://github.com/sreemonkavungal/ResetCraft-plugin
+Contributors: sreemonkavungal
+Donate link: https://paypal.me/sreemonkavungal
 Tags: reset, database reset, cleanup, developer tools, debug, maintenance
 Requires at least: 5.0
 Tested up to: 6.7
